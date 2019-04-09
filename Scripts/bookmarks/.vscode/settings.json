@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "D:\\Python\\django2\\Scripts\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "\\K",
+        "D:\\Python\\django2\\Scripts\\activate.bat"
+    ],
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+}
